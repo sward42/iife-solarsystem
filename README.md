@@ -1,6 +1,5 @@
 # Solar System IIFE
 
-## Screenshots
 
 ## Description
 Introduction to augmented IIFE.  Getters and Setters for PLanets, Active Spacecraft, Planets landed on, closest stars and age of the solar system.
